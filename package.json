@@ -1,0 +1,13 @@
+{
+    "name": "convertisseur",
+    "version": "0.1.0",
+    "dependencies": {
+        "body-parser": "~1.10.1",
+        "cookie-session": "~1.1.0",
+        "ejs": "~2.1.4",
+        "express": "^4.11.2",
+        "youtube-dl": "^1.12.2"
+    },
+    "author": "Quentin Pousseur",
+    "description": "Un convertisseur pour télécharger des clips sur youtube"
+}
